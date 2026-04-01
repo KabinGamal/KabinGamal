@@ -1,16 +1,28 @@
-## Hi there 👋
+### Hey there 👋
 
-<!--
-**KabinGamal/KabinGamal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Kabin Gamal, currently living in Kathmandu and pursuing my Bachelor's degree.
 
-Here are some ideas to get you started:
+I mostly work on frontend development — building projects with HTML, CSS, JavaScript, and gradually exploring modern tools and frameworks.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+At the same time, I'm aiming to build my future in the field of Data Analysis. I'm learning how to work with data, extract insights, and grow my analytical thinking step by step.
+
+This is my space where I’ll be sharing my projects, experiments, and everything I learn along the way. I focus on building things from scratch to truly understand the process.
+
+---
+
+### Tools & Tech
+
+- Frontend: HTML, CSS, JavaScript  
+- Currently exploring: React, Tailwind  
+- Learning: Data Analysis (Python, Excel, SQL basics)  
+- Tools: VS Code, Git, GitHub  
+
+---
+
+### A Bit About Me
+
+- 🎓 Pursuing Bachelor's degree  
+- 📍 Based in Kathmandu  
+- ⚽ Love football  
+- ✈️ Enjoy traveling and exploring new places  
+- 🚀 Passionate about learning and improving every day  
