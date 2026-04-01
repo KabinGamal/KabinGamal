@@ -21,7 +21,6 @@ This is my space where I’ll be sharing my projects, experiments, and everythin
 
 ### A Bit About Me
 
-- 🎓 Pursuing Bachelor's degree  
 - 📍 Based in Kathmandu  
 - ⚽ Love football  
 - ✈️ Enjoy traveling and exploring new places  
