@@ -12,8 +12,7 @@ This is my space where I’ll be sharing my projects, experiments, and everythin
 
 ### Tools & Tech
 
-- Frontend: HTML, CSS, JavaScript  
-- Currently exploring: React, Tailwind  
+- Frontend: HTML, CSS, JavaScript   
 - Learning: Data Analysis (Python, Excel, SQL basics)  
 - Tools: VS Code, Git, GitHub  
 
