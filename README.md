@@ -16,16 +16,11 @@ Now, I am actively transitioning into the **data field**, where I work with data
 I believe in **learning by building**, and I regularly work on projects to strengthen my practical knowledge.
 
 ---
-
 ## 🛠️ Skills & Tools
 
-### 💻 Programming & Development
-
+### 📊 Skills
 * HTML, CSS, JavaScript
 * Python (for Data Analysis)
-
-### 📊 Data Skills
-
 * Pandas (Data Manipulation & Analysis)
 * Basic SQL
 * Data Cleaning & Transformation
@@ -36,15 +31,6 @@ I believe in **learning by building**, and I regularly work on projects to stren
 * VS Code
 * Excel
 
----
-
-## 📌 Current Focus
-
-* Strengthening Data Analysis skills using Python
-* Working with real-world datasets
-* Building projects related to **data and analytics**
-* Preparing for **Data Science internships**
-* 
 ---
 
 ## 📈 Goals
@@ -65,9 +51,6 @@ I believe in **learning by building**, and I regularly work on projects to stren
 
 ---
 
-## 🤝 Let's Connect
-
-I'm always open to learning, collaboration, and new opportunities.
 Feel free to explore my repositories and connect with me!
 
 ---
