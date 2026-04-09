@@ -38,7 +38,7 @@ I believe in **learning by building**, and I regularly work on projects to stren
 * Build strong projects in Data Analysis & Machine Learning
 * Secure a Data Science internship
 * Grow towards a career in the **automobile industry**
-* Work internationally, with a long-term goal of working in Germany 🇩🇪
+* Work internationally
 
 ---
 
