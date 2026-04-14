@@ -15,14 +15,11 @@ Now, I am actively transitioning into the **data field**, where I work with data
 
 I believe in **learning by building**, and I regularly work on projects to strengthen my practical knowledge.
 
----
-## 🛠️ Skills & Tools
 
 ### 📊 Skills
 * HTML, CSS, JavaScript
 * Python (for Data Analysis)
 * Pandas (Data Manipulation & Analysis)
-* Basic SQL
 * Data Cleaning & Transformation
 
 ### ⚙️ Tools
@@ -30,21 +27,12 @@ I believe in **learning by building**, and I regularly work on projects to stren
 * Git & GitHub
 * VS Code
 * Excel
-
----
-
-## 📈 Goals
-
-* Build strong projects in Data Analysis & Machine Learning
-* Secure a Data Science internship
-* Grow towards a career in the **automobile industry**
-* Work internationally
+  
 
 ---
 
 ## 🌱 A Bit More About Me
 
-* 📍 Based in Kathmandu
 * ⚽ Enjoy playing football
 * ✈️ Love traveling and exploring new places
 * 📚 Passionate about continuous learning and self-improvement
