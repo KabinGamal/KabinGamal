@@ -5,7 +5,7 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 I am a motivated learner currently pursuing my Bachelor's degree, with a growing focus on **Data Analysis and Data Science**.
 
@@ -16,13 +16,13 @@ Now, I am actively transitioning into the **data field**, where I work with data
 I believe in **learning by building**, and I regularly work on projects to strengthen my practical knowledge.
 
 
-### 📊 Skills
+###  Skills
 * HTML, CSS, JavaScript
 * Python (for Data Analysis)
 * Pandas (Data Manipulation & Analysis)
 * Data Cleaning & Transformation
 
-### ⚙️ Tools
+###  Tools
 
 * Git & GitHub
 * VS Code
@@ -31,11 +31,11 @@ I believe in **learning by building**, and I regularly work on projects to stren
 
 ---
 
-## 🌱 A Bit More About Me
+##  A Bit More About Me
 
-* ⚽ Enjoy playing football
-* ✈️ Love traveling and exploring new places
-* 📚 Passionate about continuous learning and self-improvement
+*  Enjoy playing football ⚽
+*  Love traveling and exploring new places
+*  Passionate about continuous learning and self-improvement
 
 ---
 
