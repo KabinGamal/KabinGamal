@@ -33,7 +33,7 @@ I believe in **learning by building**, and I regularly work on projects to stren
 
 ##  A Bit More About Me
 
-*  Enjoy playing football ⚽
+*  Enjoy playing football 
 *  Love traveling and exploring new places
 *  Passionate about continuous learning and self-improvement
 
