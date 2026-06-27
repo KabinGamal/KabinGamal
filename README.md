@@ -14,7 +14,6 @@ Now, I am actively transitioning into the **data field**, where I work with data
 
 I believe in **learning by building**, and I regularly work on projects to strengthen my practical knowledge.
 
-
 ###  Skills
 * HTML, CSS, JavaScript
 * Python (for Data Analysis)
