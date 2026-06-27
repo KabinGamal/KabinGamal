@@ -2,7 +2,6 @@
 
 🎓 Bachelor's Student | Aspiring Data Analyst / Data Scientist
 📍 Kathmandu, Nepal
-
 ---
 
 ##  About Me
